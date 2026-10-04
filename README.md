@@ -9,7 +9,7 @@ I make complex tech feel simple to use. I design and build products end to end, 
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-dwightcutad.fyi-11ACEA?style=flat-square)](https://dwightcutad.fyi)
 [![Email](https://img.shields.io/badge/Email-cutaddwight03%40gmail.com-212427?style=flat-square)](mailto:cutaddwight03@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0B7BA8?style=flat-square)](https://www.linkedin.com/in/https://www.linkedin.com/in/dwight-c)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0B7BA8?style=flat-square)](https://www.linkedin.com/in/dwight-c)
 
 <br>
 
